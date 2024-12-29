@@ -8,7 +8,8 @@ namespace ConsoleApp1
 {
     internal interface IMyInnterface2
     {
-        
+
+        public void HiUser(string name); 
         string name 
         {
             get { return name; }
