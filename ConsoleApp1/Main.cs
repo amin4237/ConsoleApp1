@@ -10,14 +10,14 @@ namespace ConsoleApp1
     {
 
         private string _name;
-        void IMyInnterface2.HiUser(string name)
+
+
+        public string name { get { return _name; } set { _name = value; } }
+
+        public Main(string payam) { Console.WriteLine(payam); }
+        public void HiUser(string name)
         {
-            Console.WriteLine($"Hell dear {name} ");
+                      Console.WriteLine($"Hello dear {name} ");
         }
-
-
-        string name { get { return _name; } set { _name = value; } }
-
-        public Main(string name) { Console.WriteLine("hello hello"); }
     }
 }
