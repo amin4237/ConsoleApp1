@@ -18,23 +18,9 @@ namespace Person_Example
         static void Main(string[] args)
         {
 
-            
-            for (int i = 0; i < 3; i++)
-            {
 
-                
-                Main m1 = new Main($"user number {i} :");
-                m1.name = Convert.ToString(Console.ReadLine());
-                m1.HiUser(m1.name);
-                
 
-                List<Main> list1 = new List<Main>();
-                list1.Add(m1);
-                Console.ReadKey();
 
-              
-            }
-            
 
         }
 

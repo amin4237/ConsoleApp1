@@ -1,0 +1,23 @@
+[33mcommit d1a2ff44e0b3bcfc4a4487c7537d57a0fcc4b2a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;33mtag: [m[1;33mV1.0[m[33m)[m
+Author: Amin Jamaati <amin_jamaati@yahoo.com>
+Date:   Mon Dec 30 11:10:14 2024 +0330
+
+    IMy2 , main , program is modified and IMy , sayehello , sum is deleted
+
+[33mcommit ff1e7b92d74079f2d218cf0a37d8a7b1bc0f7dbf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Amin Jamaati <amin_jamaati@yahoo.com>
+Date:   Sun Dec 29 16:02:56 2024 +0330
+
+    IMyInterface2.cc and Main.cs is changed for first time
+
+[33mcommit 12f398ae9d5e73de09342ad28074be96fd3f1e01[m
+Author: Amin Jamaati <amin_jamaati@yahoo.com>
+Date:   Sun Dec 29 15:37:28 2024 +0330
+
+    Add project files.
+
+[33mcommit 258b0c2d3428aae2f8f7c489950627b1aed908c9[m
+Author: Amin Jamaati <amin_jamaati@yahoo.com>
+Date:   Sun Dec 29 15:37:26 2024 +0330
+
+    Add .gitattributes and .gitignore.
