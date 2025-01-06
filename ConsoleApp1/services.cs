@@ -31,9 +31,9 @@ namespace ConsoleApp1
         public DataTable selectall()
             
         {
-            
+            sqlconnection sqconn =new sqlconnection(connstring);
             DataTable dt1 = new DataTable();
-            DataAdapter da1 = new DataAdapter("select * from Person",connstring);
+            DataAdapter da1 = new DataAdapter("select * from Person",sqconn);
 
             da1.Fill(dt1);
             return dt1;
